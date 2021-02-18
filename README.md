@@ -5,7 +5,12 @@ Please ask your question of the greatest artist of the world.
 Ask about anything about The Diva!
 
 
-![alt text](https://github.com/brunosott/lady-gaga-chat-app/tree/main/resources/lady-gaga.jpg?raw=true)
+<img
+src="resources/lady-gaga.jpg"
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
 
 We use: 
 
