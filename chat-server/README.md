@@ -1,7 +1,7 @@
-##Dependecies
+## Dependecies
 
-#Kafka
-#zookeper
+# Kafka
+# zookeper
 
 ## Before Running the Project 
 
