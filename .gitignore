@@ -1,14 +1,36 @@
-# Compiled class file
-*.class
+HELP.md
+/target/
+/target
+!.mvn/wrapper/maven-wrapper.jar
 
-# Log file
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+#### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+**/.idea/
+
+#### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+#### VS Code ###
+.vscode/
 *.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+bin/
 
 # Package Files #
 *.jar
