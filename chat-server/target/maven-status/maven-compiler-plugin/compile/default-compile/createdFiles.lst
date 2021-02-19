@@ -1,0 +1,8 @@
+br/com/ladygaga/consumer/MessageConsumer.class
+br/com/ladygaga/util/KafkaConstant.class
+br/com/ladygaga/config/WebSocketConfig.class
+br/com/ladygaga/controller/ChatController.class
+br/com/ladygaga/model/Message.class
+br/com/ladygaga/config/KafkaConsumerConfig.class
+br/com/ladygaga/LadyGagaChatApp.class
+br/com/ladygaga/config/KafkaProducerConfig.class

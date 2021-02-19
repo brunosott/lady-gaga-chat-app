@@ -1,0 +1,8 @@
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/config/KafkaConsumerConfig.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/config/WebSocketConfig.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/LadyGagaChatApp.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/controller/ChatController.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/consumer/MessageConsumer.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/model/Message.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/config/KafkaProducerConfig.java
+/home/brunosottomaior/projects/lady-gaga-chat-app/chat-server/src/main/java/br/com/ladygaga/util/KafkaConstant.java
